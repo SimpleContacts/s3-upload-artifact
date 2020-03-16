@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ebuckthal/s3-upload-artifact.git"
+    "url": "git+https://github.com/SimpleContacts/s3-upload-artifact.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ebuckthal/s3-upload-artifact/issues"
+    "url": "https://github.com/SimpleContacts/s3-upload-artifact/issues"
   },
-  "homepage": "https://github.com/ebuckthal/s3-upload-artifact#readme",
+  "homepage": "https://github.com/SimpleContacts/s3-upload-artifact#readme",
   "dependencies": {
     "@actions/core": "^1.2.2",
     "@actions/github": "^2.1.1",
